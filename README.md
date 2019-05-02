@@ -10,7 +10,15 @@ To use, drag the DLL file into "assets" folder, and add the following code in yo
 
     [DllImport("inpoutx64.dll")]
     private static extern UInt32 IsInpOutDriverOpen();
+    
+    
+    ![](name-of-giphy.gif)
 
 
 
-the verison of http://www.highrez.co.uk/downloads/inpout32/ did not work because it requires a data type of short as parameters, it would not work when the parallel port address is longer than 32,767.
+BTW, the verison of http://www.highrez.co.uk/downloads/inpout32/ did not work because it requires a data type of short as parameters, it would not work when the parallel port address is longer than 32,767.
+
+
+
+
+
