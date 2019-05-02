@@ -12,7 +12,7 @@ To use, drag the DLL file into "assets" folder, and add the following code in yo
     private static extern UInt32 IsInpOutDriverOpen();
     
     
-    ![](ezgif-5-54451896ded1.gif)
+![alt-text](link)
 
 
 
