@@ -12,7 +12,7 @@ To use, drag the DLL file into "assets" folder, and add the following code in yo
     private static extern UInt32 IsInpOutDriverOpen();
     
     
-![alt-text](link)
+![alt-text](https://github.com/ZHANGneuro/parallel-port-c-unity/blob/master/ezgif-5-54451896ded1.gif)
 
 
 
